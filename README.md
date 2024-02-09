@@ -14,13 +14,12 @@ including Python, R, Julia, and more.
 
 ## Getting Started
 
-Jupyter should already be installed on the Virtual Machine (VM) you have logged 
-on. To launch it double click either of the 2 following shortcuts
+Jupyter should already be installed on the Windows sandbox you have logged 
+on. To launch it double click either of the 3 jupyter shortcuts created on 
+your desktop (*jupyter-lab*, *jupyter-notebook* or *jupyter-starter-kit*).
 
-- [jupyter-lab.lnk](./jupyter-lab.lnk)
-- [jupyter-notebook.lnk](./jupyter-notebook.lnk)
-
-> 📝 More on the distinction between Jupyter Lab and Jupyter Notebook later on. 
+> [!NOTE] 
+> More on the distinction between Jupyter Lab and Jupyter Notebook later on. 
 
 This will open a new browser window or tab with the Jupyter interface. Once the 
 Jupyter interface is open, you can explore the various Jupyter Notebook files 
@@ -41,7 +40,9 @@ explore and learn by doing.
 For more information on Jupyter and its capabilities, check out the official 
 Jupyter [documentation](https://docs.jupyter.org/en/latest/).
 
-> 💡 Don't forget about the [Jupyter Notebook CheatSheet.pdf](./notebooks/Jupyter Notebook CheatSheet.pdf) 
+> [!TIP] 
+> Don't forget about the 
+> [Jupyter Notebook CheatSheet.pdf](./notebooks/Jupyter Notebook CheatSheet.pdf) 
 
 ## Visual Python extension
 
@@ -49,7 +50,8 @@ Your Jupyter set up comes with the Visual Python package. It is a GUI-based
 Python code generator for data science. Read the documentation 
 [here] https://visual-python.gitbook.io/docs/getting-started/welcome-to-visual-python
 
-> 💡 Skip the installation steps. this is already taken care of. 
+> [!WARNING] 
+> Skip the installation steps. this is already taken care of. 
 
 ## Jupyter Notebook vs Jupyter Lab
 
